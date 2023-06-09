@@ -182,18 +182,6 @@ p {
     line-height: 3em;
 }
 
-#projects .projects-list {
-    margin-bottom: 0;
-    padding: 0;
-
-    list-style: none;
-}
-
-#projects .projects-list li {
-    font-size: 2rem;
-    line-height: 3em;
-}
-
 #work .work-list {
     margin-bottom: 0;
     padding: 0;
@@ -229,10 +217,11 @@ p {
 }
 
 
-#footer .fa-facebook-f, .fa-instagram, .fa-linkedin-in, .fa-github {
+#footer .fa-facebook, .fa-instagram, .fa-linkedin {
     padding-right: 20px;
     font-size: x-large;
     color: #000;
+
 }
 
 
